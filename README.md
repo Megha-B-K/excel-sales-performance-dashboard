@@ -62,7 +62,6 @@ README.md → Project documentation
 ---
 
 ## Author
-Megha Kallapur
 Megha Kallapur  
 GitHub: https://github.com/Megha-B-K  
 Email: meghakallapur22@gmail.com
